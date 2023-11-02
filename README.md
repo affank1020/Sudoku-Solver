@@ -1,5 +1,7 @@
 # Sudoku-Solver
 
+Written in Python
+
 Uses 2 algorithms to attempt a solve for a sudoku puzzle of any dimension.
 - Checking rows and columns for target
 - Process of elimination
